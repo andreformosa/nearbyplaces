@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nearby Places</string>
+    <string name="home_screen_venues_error_message">Could not load nearby venues</string>
+    <string name="home_screen_location_error_message">Could not get your location</string>
+    <string name="permission_text_location_permission_required_rationale">Location is required so this app can show you nearby venues!</string>
+    <string name="permission_text_location_permission_required">We need access to your phone location</string>
+    <string name="permission_button_allow_access">Allow location access</string>
+</resources>
